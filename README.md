@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lukas
-- 👀 I’m interested in gaming :) 
+- 👋 Hi, I’m Lukas, studing Business informatics
+- 👀 I’m interested in gaming and gym :) 
 - 🌱 I’m currently learning coding
 
 <!---
